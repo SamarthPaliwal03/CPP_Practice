@@ -1,7 +1,8 @@
 //can only be applied when all are in ascending order or descending 
 //use mid =start +(end-start)/2
 //abv mid is better because in case if end and start are very big then there adding them will be a tough deal
-
+//N/2^k iterations
+//O(logn)
 #include <iostream>
 using namespace std;
 
