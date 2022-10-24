@@ -1,5 +1,6 @@
 //card wala eg ,here we dont swap we just shift it
-
+//Time complexity is o(n^2)
+//best case is o(n) worst is n^2
 #include<iostream>
 using namespace std;
 
